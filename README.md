@@ -1,3 +1,4 @@
+
 # Task 1 – Web Development Internship @ ApexPlanet
 
 This project marks the beginning of my 45-day internship journey at ApexPlanet Software Pvt. Ltd. Task 1 involves setting up a complete PHP & MySQL development environment and initializing version control with Git and GitHub.
